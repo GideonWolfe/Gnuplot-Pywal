@@ -1,6 +1,3 @@
 #!/bin/bash
 gengnuplotconfig > $HOME/.gnuplot
-
-. $HOME/.cache/wal/colors.sh
-
 gnuplot
