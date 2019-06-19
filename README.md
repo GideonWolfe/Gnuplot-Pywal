@@ -1,3 +1,10 @@
+
+
+![alt text](https://i.imgur.com/oN5IZzF.png)
+![alt text](https://i.imgur.com/vLEDRMQ.png)
+![alt text](https://i.imgur.com/eZ2vHSF.png)
+
+
 # Gnuplot-Pywal
 
 Gnuplot-Pywal is a set of helper scripts that dynamically theme gnuplot based on colors set by [pywal](https://github.com/dylanaraps/pywal).
