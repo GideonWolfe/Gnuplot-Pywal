@@ -1,8 +1,8 @@
 
 
-![alt text](https://i.imgur.com/oN5IZzF.png)
-![alt text](https://i.imgur.com/vLEDRMQ.png)
-![alt text](https://i.imgur.com/eZ2vHSF.png)
+![alt text](https://i.imgur.com/4Bv9Nhf.png)
+![alt text](https://i.imgur.com/dho7Kj8.png)
+![alt text](https://i.imgur.com/G4mbqw9.png)
 
 
 # Gnuplot-Pywal
