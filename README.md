@@ -1,4 +1,4 @@
-# Zathura-Pywal
+# Gnuplot-Pywal
 
 Gnuplot-Pywal is a set of helper scripts that dynamically theme gnuplot based on colors set by [pywal](https://github.com/dylanaraps/pywal).
 
