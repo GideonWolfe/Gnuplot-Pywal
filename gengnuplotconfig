@@ -8,7 +8,7 @@ cat <<CONF
 
 # Basic configs
 set grid
-set isosamples 35
+set isosamples 50
 set hidden3d
 
 # Draw a background
