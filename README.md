@@ -12,7 +12,15 @@ Gnuplot-Pywal is a set of helper scripts that dynamically theme gnuplot based on
 
 ## Installation
 
-To install, simply move into the clone directory and run `sudo ./install.sh`
+To install you can do  `sudo make install`
+
+### Uninstall
+
+`sudo make uninstall`
+
+### Update
+
+`sudo make update`
 
 ## Usage
 
